@@ -11,6 +11,6 @@
   "scripts": {
     "start": "node server.js",
     "install": "yarn install --produce=true",
-    "build": ""
+    "build": "exit 0"
   }
 }
