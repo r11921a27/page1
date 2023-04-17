@@ -11,6 +11,6 @@
   "scripts": {
     "start": "yarn start"
     "build": "yarn build"
-    "install:all": "yarn install && yarn"
+    "install:all": "yarn install --production=false && yarn"
   }
 }
